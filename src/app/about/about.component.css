@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.ki{
+   background-color: black;
+   height: 30%;
+}
+.n{
+   background-color: navy;
+   
+}
+@media(max-width: 768px){
+   .ki{
+       min-height: 50vh;
+   }
+}
+.k{
+   
+   position: absolute;
+   top: 4.2rem;
+   max-width: 550px;
+   padding-left: 5.9rem;
+}
+.contleft{
+   float:left;
+   width:60%;
+   font-size: 20px;
+}
+.contright{
+   float:right;
+}
+.k1{
+   
+   text-align: justify;
+}
+.m{
+   color: yellow;
+}
+.mo{
+   padding-top: 20px;
+   text-align: center;
+}

@@ -1,0 +1,43 @@
+.background{
+    height: 225px;
+    width: 100%;
+}
+.images{
+    background-image: url("../../assets/1.jpg");
+    height: 250px;
+    width: 100%;
+}
+.freee{
+    padding-left: 80%;
+}
+.free{
+    
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    
+}
+.star{
+    color: gold;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    color: rgba(179, 179, 5, 0.603);
+}
+.profile{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.heart:hover{
+    color: red;
+}
+.person:hover {
+    color: red;
+}
+
+
